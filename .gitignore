@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Task/.vs/Task
+/Task/Task/bin/Debug/netcoreapp3.1
+/Task/Task/obj
